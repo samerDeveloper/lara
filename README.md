@@ -1,2 +1,1 @@
-# lara
-lara application
+application
